@@ -1,4 +1,7 @@
+// HEj
 // Innehåller klasser och metoder för att skapa GUI-komponenter
+
+
 import javax.swing.*;
 // Innehåller klasser för GUI-komponenter och layouthantering
 import java.awt.*;

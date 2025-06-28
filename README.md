@@ -1,0 +1,2 @@
+Tic Tac Toe (Java, GUI)
+A GUI-based Tic Tac Toe game built in Java using Swing and AWT. Supports both single and two-player modes, with clear game status messages, visual highlights for winning combinations, and a reset option. The project focuses on object-oriented programming, event handling, and creating a user-friendly layout. Demonstrates my ability to structure code, implement interactive GUI logic, and complete a standalone application from scratch.
